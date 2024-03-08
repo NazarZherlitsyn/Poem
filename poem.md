@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Когда-то всё будет иначе
+# Вірші
+## Вірш 1
+
+Когда-то всё будет иначе
         Когда-то жизнь станет другой
         Сопутствовать будет удача
         Появятся мир и покой
@@ -35,5 +30,4 @@
         Когда-то жизнь станет другой
         Поверь в это всем своим сердцем
         И это случится с тобой!</h1>
-</body>
-</html>
+
